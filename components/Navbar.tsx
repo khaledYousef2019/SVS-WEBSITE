@@ -173,6 +173,15 @@ const Navbar = () => {
                 News
               </Link>
             </li>
+            <li>
+              <a
+
+                href="http://dashboard.svscoin.org"
+               className="block py-2 px-3 text-white  rounded md:bg-transparent  md:p-0  z-40 relative"
+              >
+                Login
+              </a>
+            </li>
           </ul>
         </div>
       </div>
