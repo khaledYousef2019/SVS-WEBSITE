@@ -37,9 +37,6 @@ const nextConfig = {
     eslint: {
         ignoreDuringBuilds: true,
     },
-    api: {
-        externalResolver: true,
-    },
 };
 
 export default nextConfig;

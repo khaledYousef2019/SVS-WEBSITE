@@ -66,14 +66,14 @@ const Navbar = () => {
         }`}
       >
         <a
-          href="https://svscoin.org/theme-assets/images-3d-graphics/ctcbig.png"
+          href="https://svscoin.org/theme-assets/images-3d-graphics/logo.png"
           className="flex items-center space-x-3 rtl:space-x-reverse relative md:w-[90px] md:h-[90px] w-[60px] h-[60px] -translate-x-40 opacity-0 md:ml-0 ml-4"
           ref={logoRef}
           target="_blank"
         >
           <Image
             src="/assets/images/logoo.png"
-            // src="https://svscoin.org/theme-assets/images-3d-graphics/ctcbig.png"
+            // src="https://svscoin.org/theme-assets/images-3d-graphics/logo.png"
             alt=""
             fill
             objectFit="contain"
@@ -117,9 +117,9 @@ const Navbar = () => {
             >
               <path
                 stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
                 d="M1 1h15M1 7h15M1 13h15"
               />
             </svg>

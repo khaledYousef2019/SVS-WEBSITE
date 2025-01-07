@@ -13,23 +13,23 @@ const SocialMedia = () => {
   const socialLinks = [
     {
       name: "facebook",
-      link: "https://www.facebook.com/profile.php?id=100090081681422",
+      link: "https://www.facebook.com/share/1Ybipg5CGA/?mibextid=wwXIfr",
       icon: <FaFacebookF color="#111827" fontSize={15} />,
     },
     {
       name: "twitter",
-      link: "https://x.com/Svs_coins",
+      link: "https://x.com/svs_coins?s=21",
       icon: <FaXTwitter color="#111827" fontSize={15} />,
     },
     {
       name: "telegram",
-      link: "https://t.me/svscoin2",
+      link: "https://t.me/svscoincommunity",
       icon: <BiLogoTelegram color="#111827" fontSize={15} />,
     },
     {
-      name: "instagram",
-      link: "https://www.instagram.com/svscoins/",
-      icon: <FaInstagram color="#111827" fontSize={15} />,
+      name: "linkedin",
+      link: "https://www.linkedin.com/company/svscoin/",
+      icon: <BsLinkedin color="#111827" fontSize={15} />,
     },
   ];
 

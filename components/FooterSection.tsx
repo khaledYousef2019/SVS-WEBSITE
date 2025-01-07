@@ -20,6 +20,14 @@ const FooterSection = () => {
       name: "listing",
     },
     {
+      link: "/terms-and-conditions",
+      name: "Terms & Conditions",
+    },
+    {
+      link: "/privacy-policy",
+      name: "Privacy Policy",
+    },
+    {
       link: "#roadmap",
       name: "Board Advisor",
     },
